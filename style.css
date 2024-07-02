@@ -111,3 +111,13 @@ section {
   font-size: 1rem;
   font-weight: 700;
 }
+
+@media screen and (max-width: 768px) {
+  .logo-money {
+    display: none;
+  }
+
+  main {
+    margin-top: 67px;
+  }
+}

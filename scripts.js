@@ -145,6 +145,7 @@ function currencyChange() {
 
   console.log(currencySelect02.value);
 }
+
 currencySelect02.addEventListener("change", currencyChange);
 currencySelect.addEventListener("change", currencyChange);
 convertButton.addEventListener("click", convertValues);

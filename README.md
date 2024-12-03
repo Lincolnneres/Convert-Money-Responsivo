@@ -11,5 +11,5 @@
 <a href="https://lincolnneres.github.io/Convert-Money-Responsivo/" target="_blank">Link do Projeto</a>
 <br>
 <br>
-<img src="https://github.com/Lincolnneres/Convert-Money-Responsivo/blob/main/assets/conversor%2001.png?raw=true" align = "top" width = "500px" height = "479"/>
+<img src="https://github.com/Lincolnneres/Convert-Money-Responsivo/blob/main/assets/Img-Convert-Money.png?raw=true"/>
 
